@@ -9,5 +9,3 @@ hello.world()
 ```
 
 More text
-
-more
