@@ -1,3 +1,6 @@
 site_name: Azam's doc site
 theme:
   name: material
+nav:
+  - Home: index.md
+  - About: about.md
